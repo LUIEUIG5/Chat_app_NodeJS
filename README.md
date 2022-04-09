@@ -1,4 +1,4 @@
-# LU UI Chat app using nodeJS - Express
+# Chat app using nodeJS - Express
 
 ## run "npm -i" 
 ## run  "npm start"
