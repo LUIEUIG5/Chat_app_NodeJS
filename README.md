@@ -1,6 +1,11 @@
-# Chat app using nodeJS - Express
+## Chat app using nodeJS - Express
 
-## run "npm -i" 
-## run  "npm start"
+In the project directory, you can run:
 
-## open port 0.0.0.0:3000
+## npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
